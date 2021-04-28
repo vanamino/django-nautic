@@ -1,0 +1,2 @@
+# django-nautic
+django project
